@@ -33,4 +33,4 @@ Credit card fraud is rare but costly: in this dataset, only **0.17%** of transac
 Python · Pandas · Scikit-learn · imbalanced-learn (SMOTE) · Matplotlib · Seaborn
 
 ## Notebook
-See [`fraud_detection.ipynb`](./fraud_detection.ipynb) for the full analysis.
+See [`credit-card-fraud-detection.ipynb`](./credit-card-fraud-detection.ipynb) for the full analysis.
